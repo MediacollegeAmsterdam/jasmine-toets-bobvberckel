@@ -4,7 +4,6 @@ function Verbeteringen() {
     this.unit = 'Unit test';
     this.beschrijving = 'Beschrijving';
     this.boodschap = 'Hallo';
-
 }
 
 let unitTest = new Verbeteringen();
